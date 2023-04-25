@@ -26,4 +26,7 @@ CREATE TABLE sepomex(
 
 
 LOAD DATA LOCAL infile "CPdescarga.txt" INTO TABLE sepomex
-CHARACTER SET UTF8 fields terminated BY '|' lines terminated BY '\r\n';
+CONJUNTO DE CARACTERES Campos UTF8 terminados POR  '|' líneas terminadas en  '\r\n' ;
+
+
+Hola soy vic
